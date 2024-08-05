@@ -1,6 +1,6 @@
 
 env:   
-  docker_tag: schalla/duckdefender-v2:dev-test
+  docker_tag: schalla/duckdefender-v2:dev-latest
   
 # This is a basic workflow to help you get started with GitHub Actions             
 
