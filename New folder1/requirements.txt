@@ -1,6 +1,0 @@
-pylint-pytest==1.0.0
-django==4.2.12
-poe-client==0.1.1
-plotinpy==0.1.0
-yt-idefix==0.13.0
-3etool==0.0.10
